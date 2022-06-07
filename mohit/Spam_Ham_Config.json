@@ -1,0 +1,14 @@
+{
+                            
+  "TRAINING_DATA_PATH": "./TrainingData/Flow_TrainingData_bkp.csv",
+  "VECTORIZER" : "./Model/vectorizer.pk",
+  "MODEL" : "./Model/spam_ham_model.pk",  
+  "TEST_VECTORIZER" : "./Model/test_vectorizer.pk",
+  "TEST_MODEL" : "./Model/test_spam_ham_model.pk",
+  
+  "LOG_PATH": "./LOGS/ML_DataAnalyser.log",
+  "LOG_TAG": "ML_DataAnalyser.log",
+  "NLTK_PATH": "./nltk_data",
+  "GENSIM": "./gensim"    
+  
+}
