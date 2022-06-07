@@ -1,0 +1,10 @@
+{
+  "TRAINING_DATA_PATH": "./TrainingData/Flow_TrainingData_bkp.csv",
+  "VECTORIZER" : "./Model/vectorizer.pk",
+  "MODEL" : "./Model/A2P_P2P_detect_model.pk",   
+  "PROCESS_FILE_EXTENSION": ".csv", 
+  
+  "LOG_PATH": "./LOGS/A2P_P2P_logpath.log",
+  "LOG_TAG": "ML_DataAnalyser.log"   
+  
+}
