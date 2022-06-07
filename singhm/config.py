@@ -1,0 +1,1 @@
+host_name = '10.0.0.34'db_name = 'manish'db_user = 'ussduser'db_psswd = 'ussduser'data = './data/'TrainingData = './TrainingData/Flow_TrainingData.csv'Add_TrainingData = './TrainingData/Added_Flow_TrainingData.csv'Time_interval = 150
