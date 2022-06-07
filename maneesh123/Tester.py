@@ -1,0 +1,1 @@
+from main import A2P_P2P_predicttest = 'kanti yiphi number oyisebenzisa ku app kuwe ngapho manje ngizame eye mascom iyala'res = A2P_P2P_predict(test)print(res)
